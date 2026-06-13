@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student focused on AI/ML Engineering.<br><br>I enjoy building machine learning systems from data exploration and model development to backend APIs, deployment, and production infrastructure.<br><br>Currently interested in:<br>- Machine Learning<br>- Deep Learning<br>- ML Engineering<br>- MLOps
+Computer Science student focused on AI/ML Engineering.<br><br>I enjoy building machine learning systems from data exploration and model development to backend APIs, deployment, and production infrastructure.<br><br>Currently interested in:<br>- Machine Learning<br>- Deep Learning<br>- ML Engineering<br>- MLOps<br>- System Design 
 
 
 ## 🌐 Socials:
